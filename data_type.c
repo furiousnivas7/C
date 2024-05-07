@@ -5,3 +5,4 @@ int main(){
     printf(myNum);
     return 0;
 }
+// noting to happen because is we write this type we write foemat specification
